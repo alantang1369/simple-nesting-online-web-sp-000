@@ -84,7 +84,7 @@ def adding_matz
 
    programmer_hash[:yukihiro_matsumoto] =  {            :known_for => "Ruby",
        :languages => ["LISP", "C"] 
-   }https://learn.co/tracks/full-stack-web-development-v8/module-5-procedural-ruby/section-9-data-structures/multitype-collections-lab#
+   }
 end
 
 def changing_alan
